@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  width: 400px;
+  margin: 40px auto;
+}
+
+.commentbox label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.commentbox textarea {
+  width: 100%;
+  height: 100px;
+}
+
+.randomcode {
+  margin-top: 15px;
+}
+
+.randomcode input {
+  width: 60%;
+  padding: 5px;
+}
+
+#codes {
+  margin-top: 8px;
+  font-weight: bold;
+}
+
+form .button {
+  margin-top: 20px;
+}
+
+form .button input {
+  width: 8em;
+  height: 2.5em;
+  font-size: 1.2em;
+  font-weight: bold;
+  /* background-color: #4977D1; */
+  color: #ffffff;
+  border: none;
+}
